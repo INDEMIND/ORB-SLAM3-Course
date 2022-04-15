@@ -1,0 +1,8 @@
+[submodule "ORB_SLAM3"]
+	path = ORB_SLAM3
+	url = https://github.com/INDEMIND/ORB_SLAM3.git
+	branch = master
+[submodule "IMSEE-SDK"]
+	path = IMSEE-SDK
+	url = https://github.com/INDEMIND/IMSEE-SDK.git
+	branch = orbslam3
